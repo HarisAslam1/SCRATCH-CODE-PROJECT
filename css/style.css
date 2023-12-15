@@ -88,6 +88,101 @@
 
 
 /* <!-- ========== NAVBAR-SECTION-CSS-END ========== --> */
+/* <!-- ========== HERO-SECTION-CSS-START ========== --> */
+.hero-bg-img {
+    background: linear-gradient(317deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.90) 43.4%, #FFF 89.29%) , url(../img/Wilco\ Employee\ Candids_Corvallis-46.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hero-text-position {
+    margin-left: 50px;
+}
+.hero-wilco{
+    margin-top: 9px !important;
+}
+.hero-wilco a,
+.hero-wilco:hover {
+    color: #302C2D !important;
+    font-family: Roboto Condensed;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    -moz-text-decoration-line: underline;
+    
+    
+}
+
+.hero-line-adust{
+    margin-top: 50px;
+}
+.hero-line-adust span{
+    color: #302C2D;
+font-family: Bitter;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 50px;
+}
+.hero-paragraph p{
+    color: #302C2D;
+font-family: Roboto Condensed;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 20px;
+}
+.hero-button{
+     background-image: url(../img/Rectangle\ 198.png);
+    background-position: 2%;
+    background-repeat: no-repeat; 
+    margin-top: 10px !important;
+    margin-bottom: 60px;
+    
+}
+.hero-button p{
+
+margin: 18px 0px 18px 31px;
+color: #ffffff;
+font-family: Bitter;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.hero-employee-img img{
+    border:dotted 3px #DDCBA4 ;
+    background-color: #ffffff;
+    padding: 3px;
+    width: 100%;
+}
+/* <!-- ========== HERO-SECTION-CSS-END ========== --> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* <!-- ========== MEDIA-QUERY-768-START ========== --> */
 @media only screen and (max-width: 768px) {
 
@@ -103,6 +198,7 @@
     .navbar-light .toggler-img {
         background-image: url(../img/menu\ icon.png) !important;
     }
+   
 }
 
 /*
@@ -116,6 +212,34 @@
     .dropdown-media-position {
         margin: 20px 0px;
     }
+      .hero-bg-img{
+        background: none;
+        background-color: #ffffff;
+
+    }
+    .hero-bg-img-query{   background: linear-gradient(317deg, rgba(255, 255, 255, 0.30) 0%, rgba(255, 255, 255, 0.90) 43.4%, #FFF 89.29%) , url(../img/Wilco\ Employee\ Candids_Corvallis-46.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;} 
+    .hero-employee-img{
+        margin-top: 22px;
+        margin-bottom: 31px;
+    }
+    .hero-text-position{
+        margin-left: 20px;
+
+    }
 }
 
 /* <!-- ========== MEDIA-QUERY-425-END ========== --> */
+/* <!-- ========== MEDIA-QUERY-375-START ========== --> */
+@media only screen and (max-width: 375px) {
+    
+    .hero-line-adust span:last-child{
+        margin-left: 15px;
+    }
+    .hero-text-position{
+        margin-left: 10px;
+    }
+}
+/* <!-- ========== MEDIA-QUERY-375-END ========== --> */
