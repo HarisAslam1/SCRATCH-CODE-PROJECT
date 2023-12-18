@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.26772in" height="11.6929in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8267.72 11692.91"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="-4417.33" y="4632.45" width="15902.78" height="2680.55"/>
+   </clipPath>
+   <clipPath id="id1">
+    <rect x="-8506.14" y="4533.41" width="20000" height="4583.33"/>
+   </clipPath>
+   <clipPath id="id2">
+    <rect x="-8503.23" y="5980.97" width="20000" height="2527.77"/>
+   </clipPath>
+   <clipPath id="id3">
+    <rect x="-8515.56" y="7247.8" width="20000" height="2583.33"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image x="-4417.33" y="4632.45" width="15902.78" height="2680.55" xlink:href="block_Images\block_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image x="-8506.14" y="4533.41" width="20000" height="4583.33" xlink:href="block_Images\block_ImgID2.png"/>
+  </g>
+  <g style="clip-path:url(#id2)">
+   <image x="-8503.23" y="5980.97" width="20000" height="2527.77" xlink:href="block_Images\block_ImgID3.png"/>
+  </g>
+  <g style="clip-path:url(#id3)">
+   <image x="-8515.56" y="7247.8" width="20000" height="2583.33" xlink:href="block_Images\block_ImgID4.png"/>
+  </g>
+ </g>
+</svg>
